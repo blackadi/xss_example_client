@@ -7,7 +7,7 @@ const Search = () => {
 
   useEffect(() => {
     const search = async () => {
-      const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
+      const { data } = await axios.get('https://xss-example-ashy.vercel.app/', {
         params: {
           action: 'query',
           list: 'search',

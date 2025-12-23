@@ -2,7 +2,7 @@
   "name": "widgets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://blackadi.github.io",
+  "homepage": "https://blackadi.github.io/xss_example_client",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
