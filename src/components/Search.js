@@ -7,7 +7,7 @@ const Search = () => {
 
   useEffect(() => {
     const search = async () => {
-      const { data } = await axios.get('https://xss-example-blackadi.netlify.app/', {
+      const { data } = await axios.get('https://xss-example-xjzw.onrender.com/', {
         params: {
           action: 'query',
           list: 'search',
